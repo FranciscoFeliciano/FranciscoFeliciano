@@ -1,7 +1,8 @@
 ## Fala pessoal eu sou o Francisco 
 
-- 🌱Estudando Html 5 e CSS
-- 📫 Contate-me no email:Francisco.Feliciano145@gmail.com
+- 🌱Estudando: Data Analytics 
+- 📫 Contate-me no email:
+- Francisco.Feliciano145@gmail.com
 - 😄 Pronouns: ele/dele
 
 
