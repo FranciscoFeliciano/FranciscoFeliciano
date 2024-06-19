@@ -1,7 +1,7 @@
 ## Fala pessoal eu sou o Francisco 
 
 ## 👨‍💻 Sobre Mim
-* Sou uma pessoa apaixonada por dados que tem em mente fazer muitos projetos open-source, e poder colaborar com alguns insights no mercado de futebol
+* Sou uma pessoa apaixonada por dados que tem em mente fazer muitos projetos open-source, e poder colaborar com alguns insights no mercado de esportes
 * Estudante de Análise de Dados na EBAC, com previsão de conclusão em agosto de 2024.
 * Buscando aprimorar minhas habilidades em Python, SQL, Power BI, Tableau.
 * Sempre Motivado(a) a aprender e crescer na área de análise de dados.
